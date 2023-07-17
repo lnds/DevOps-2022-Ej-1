@@ -1,6 +1,6 @@
 # Laboratorio docker-compose
 
-Este repo contiene la app que vimos en la segunda clase.
+Este repo contiene la app que vimos en las primeras clases.
 
 Recuerda que en nuestro ejercicio en replit usamos un servicio externo para la base de datos (ElephantSQL).
 
