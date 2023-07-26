@@ -193,7 +193,7 @@ Detén los contenedores:
 # Paso 4:
 
 Ejecuta el comando:
-    $ docker scan app
+    $ docker scout cves
     
 Es posible que te pida hacer un `login` a docker-hub, hazlo con tus credenciales.
 
